@@ -6,9 +6,9 @@ namespace PolymorphismInterface
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nama\t: Ivan Nur Ilham Syah");
-            Console.WriteLine("NIM\t: 19.11.2742");
-            Console.WriteLine("Kelas\t: 19 IF 03");
+            Console.WriteLine("Nama\t: M.Fitratul Iman");
+            Console.WriteLine("NIM\t: 19.11.2809");
+            Console.WriteLine("Kelas\t: 19 IF 04");
 
             Console.WriteLine();
 
